@@ -1,10 +1,5 @@
 /// <reference types="cypress" />
 
-// 1. create an app
-// 2. Create a table
-// 3. Create a user group
-// 4. Add a user mishoiskam@gmail.com
-
 describe('budibase explore', () => {
 
     it('create an app', () => {
